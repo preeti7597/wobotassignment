@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wobotassignment/static/css/main.aeb73f63.css",
-    "main.js": "/wobotassignment/static/js/main.d639e116.js",
+    "main.css": "/wobotassignment/static/css/main.2cb083b5.css",
+    "main.js": "/wobotassignment/static/js/main.26df13e7.js",
     "index.html": "/wobotassignment/index.html",
-    "main.aeb73f63.css.map": "/wobotassignment/static/css/main.aeb73f63.css.map",
-    "main.d639e116.js.map": "/wobotassignment/static/js/main.d639e116.js.map"
+    "main.2cb083b5.css.map": "/wobotassignment/static/css/main.2cb083b5.css.map",
+    "main.26df13e7.js.map": "/wobotassignment/static/js/main.26df13e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeb73f63.css",
-    "static/js/main.d639e116.js"
+    "static/css/main.2cb083b5.css",
+    "static/js/main.26df13e7.js"
   ]
 }
