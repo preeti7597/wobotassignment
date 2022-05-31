@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wobotassignment/static/css/main.54bc2c0d.css",
+    "main.js": "/wobotassignment/static/js/main.d639e116.js",
+    "index.html": "/wobotassignment/index.html",
+    "main.54bc2c0d.css.map": "/wobotassignment/static/css/main.54bc2c0d.css.map",
+    "main.d639e116.js.map": "/wobotassignment/static/js/main.d639e116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bc2c0d.css",
+    "static/js/main.d639e116.js"
+  ]
+}
